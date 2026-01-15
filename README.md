@@ -19,6 +19,42 @@ Join us on [discord](https://discord.gg/QUJExr4mRn) or visit our [documentation 
 - Start the game by running `./Project_Alice.AppImage`.
 - Read up the [User and multiplayer guide](https://github.com/schombert/Project-Alice/blob/main/docs/user_guide.md#linux) for parameters.
 
+## What Can You Program Here?
+
+Project Alice is a large-scale C++20 game development project with over 600 source files covering many aspects of game development. Here's what you can work on:
+
+### Core Game Systems
+- **Artificial Intelligence (AI)**: Develop AI for nations, including diplomacy, war strategies, economic decisions, and alliance management
+- **Economy**: Implement trade systems, factory management, production chains, and market dynamics
+- **Military**: Work on combat mechanics, army movement, naval operations, supply systems, and war score calculations
+- **Diplomacy**: Build systems for international relations, treaties, alliances, and diplomatic messages
+- **Culture & Nations**: Handle population mechanics, culture systems, and nation management
+
+### Technical Systems
+- **Graphics & Rendering**: Develop map rendering (including a 3D globe view), UI rendering, and visual effects
+- **GUI (Graphical User Interface)**: Create and improve user interface components and windows
+- **Networking**: Implement multiplayer functionality and network protocols
+- **Map Systems**: Work on map data loading, borders, projections, and geographic features
+- **Sound**: Integrate audio systems and music playback
+- **Text & Localization**: Handle text rendering and multi-language support
+- **Parsing**: Develop parsers for game data files and mod support
+- **Scripting**: Implement game scripting capabilities for events and decisions
+
+### Development Areas
+- **Performance Optimization**: Improve game performance and reduce memory usage
+- **Bug Fixes**: Fix existing issues in any of the systems above
+- **Testing**: Create and maintain tests for game systems
+- **Documentation**: Improve technical documentation and code comments
+- **Modding Support**: Enhance mod compatibility and loading systems
+
+### Technologies Used
+- **Language**: C++20 with CMake build system
+- **Compilers**: MSVC, Clang/LLVM, and GCC support
+- **Platforms**: Windows and Linux (via AppImage)
+- **Development Tools**: Visual Studio, VS Code, CLion, or any C++ IDE
+
+This is an open-source project (GPL3 license), and contributions are welcome! Whether you're interested in game logic, graphics programming, networking, or optimization, there's something for everyone.
+
 ## Contributing
 - Please, [visit this page](https://github.com/schombert/Project-Alice/blob/main/docs/contributing.md) ([简中](https://github.com/schombert/Project-Alice/blob/main/docs/zh-cn/contributing.md), [Español](https://github.com/schombert/Project-Alice/blob/main/docs/es-es/contributing.md), [Deutsch](https://github.com/schombert/Project-Alice/blob/main/docs/de-de/contributing.md), [Português](https://github.com/schombert/Project-Alice/blob/main/docs/pt/contributing.md))
 
